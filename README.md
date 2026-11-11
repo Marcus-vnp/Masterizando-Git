@@ -1,2 +1,1 @@
-# Hello 
-Este é um teste, escreva o que quiser
+Masteriando o git e github
